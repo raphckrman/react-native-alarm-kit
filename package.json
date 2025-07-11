@@ -43,7 +43,7 @@
     "nitrogen": "nitro-codegen",
     "release": "release-it --only-version",
     "build:ios": "echo 'Building iOS...'",
-    "build:android": "echo 'Building Android...'",
+    "build:android": "echo 'Building Android...'"
   },
   "keywords": [
     "react-native",
