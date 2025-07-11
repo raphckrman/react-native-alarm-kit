@@ -1,11 +1,11 @@
-# react-native-alarmkit
+# 📱 react-native-alarmkit
 
 > [!WARNING]
 > This library is still under development. Use at your own risk.
 
 This library provides a simple and modern interface for working with alarms in your React Native app using Apple’s latest AlarmKit framework.
 
-## Installation
+## ⚙️ Installation
 
 ### React Native
 > [!NOTE]  
@@ -19,7 +19,7 @@ npx expo add react-native-real-fetch react-native-nitro-modules
 npx expo prebuild
 ```
 
-## Usage
+## 🚀 Usage
 
 
 ```js
@@ -41,6 +41,10 @@ scheduleRelativeAlarm("amazing relative alarm", stopBtn, "#FFFFFF", 10, 0, ["mon
 ```
 
 
-## Contributing
+## 🤝 Contributing
 
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
+We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) to learn how to get started, report issues, or suggest improvements.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE.md).
