@@ -1,0 +1,17 @@
+{
+  "cxxNamespace": ["alarmkit"],
+  "ios": {
+    "iosModuleName": "AlarmKit"
+  },
+  "android": {
+    "androidNamespace": ["alarmkit"],
+    "androidCxxLibName": "alarmkit"
+  },
+  "autolinking": {
+    "AlarmKit": {
+      "swift": "AlarmKit",
+      "kotlin": "AlarmKit"
+    }
+  },
+  "ignorePaths": ["node_modules"]
+}

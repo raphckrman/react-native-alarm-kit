@@ -1,0 +1,3 @@
+class AlarmKit: HybridAlarmKitSpec {
+
+}
