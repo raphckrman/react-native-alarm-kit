@@ -41,9 +41,7 @@
     "clean": "del-cli android/build example/android/build example/android/app/build example/ios/build lib",
     "prepare": "bob build",
     "nitrogen": "nitro-codegen",
-    "release": "release-it --only-version",
-    "build:ios": "echo 'Building iOS...'",
-    "build:android": "echo 'Building Android...'"
+    "release": "release-it --only-version"
   },
   "keywords": [
     "react-native",
