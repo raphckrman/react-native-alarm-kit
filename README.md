@@ -11,11 +11,11 @@ This library provides a simple and modern interface for working with alarms in y
 > [!NOTE]  
 > ``react-native-nitro-modules`` is required because this library leverages [Nitro Modules](https://nitro.margelo.com/).
 ```sh
-npm install react-native-alarmkit react-native-nitro-modules
+npm install @raphckrman/react-native-alarm-kit react-native-nitro-modules
 ```
 ### Expo
 ```sh
-npx expo add react-native-real-fetch react-native-nitro-modules
+npx expo add @raphckrman/react-native-alarm-kit react-native-nitro-modules
 npx expo prebuild
 ```
 
