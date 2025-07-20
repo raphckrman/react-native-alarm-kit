@@ -1,5 +1,5 @@
 {
-  "name": "react-native-alarmkit",
+  "name": "@raphckrman/react-native-alarm-kit",
   "version": "1.0.0",
   "description": "This library provides a simple and modern interface for working with alarms in your React Native app using Apple’s latest AlarmKit framework.",
   "main": "./lib/module/index.js",
