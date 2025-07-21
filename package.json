@@ -34,7 +34,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-alarmkit-example",
+    "example": "yarn workspace react-native-alarm-kit-example",
     "test": "jest",
     "typecheck": "tsc",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -50,14 +50,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raphckrman/react-native-alarmkit.git"
+    "url": "git+https://github.com/raphckrman/react-native-alarm-kit.git"
   },
   "author": "raphckrman <raphckrman@proton.me> (https://github.com/raphckrman)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raphckrman/react-native-alarmkit/issues"
+    "url": "https://github.com/raphckrman/react-native-alarm-kit/issues"
   },
-  "homepage": "https://github.com/raphckrman/react-native-alarmkit#readme",
+  "homepage": "https://github.com/raphckrman/react-native-alarm-kit#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
